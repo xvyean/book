@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm list:*)",
+      "Bash(obsidian *)",
+      "Bash(obsidian-cli *)",
+      "Bash(defuddle *)",
+      "Bash(defuddle:*)",
+      "Bash(mv 01-WORLD/magic-*.md 01-WORLD/magic/)",
+      "Bash(mv 01-WORLD/religion-*.md 01-WORLD/religion/)",
+      "mcp__obsidian__list_vault_files",
+      "mcp__obsidian__search_vault_simple",
+      "mcp__obsidian__get_vault_file",
+      "mcp__obsidian__create_vault_file",
+      "mcp__obsidian__patch_vault_file",
+      "WebSearch"
+    ]
+  },
+  "enabledMcpjsonServers": [
+    "obsidian"
+  ]
+}
