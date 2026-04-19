@@ -6,10 +6,12 @@ summary: "奥菲莉娅的真实年龄至少数千年，远超外表呈现的少�
 status: 已拍板
 tags: [伏笔]
 related:
+  - "[[05-PLOT/foreshadowing/_index]]"
   - "[[char-奥菲莉娅]]"
   - "[[fore-奥菲莉娅-外表冻结原因]]"
+  - "[[arcs/arc-奥菲莉娅]]"
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # 伏笔：奥菲莉娅的真实年龄

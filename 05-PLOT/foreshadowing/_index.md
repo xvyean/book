@@ -2,8 +2,11 @@
 type: meta
 summary: 全书伏笔/灵感池总索引。只记"有这么些伏笔"，不预排时序。
 tags: [索引, 伏笔]
+related:
+  - "[[05-PLOT/_index]]"
+  - "[[arcs/arc-索妮娅]]"
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # 伏笔 / 灵感池

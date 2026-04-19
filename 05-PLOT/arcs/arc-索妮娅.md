@@ -11,9 +11,10 @@ related:
   - "[[char-菲拉]]"
   - "[[religion-神明-索菲莉娅]]"
   - "[[relationships-女主群像]]"
+  - "[[05-PLOT/_index]]"
   - "[[arc-伊利安]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-19
 ---
 
 # 索妮娅 · 弧线

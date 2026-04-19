@@ -6,11 +6,13 @@ summary: "过度使用神选能力时，索妮娅会自我边界模糊，分不�
 status: 已拍板
 tags: [伏笔]
 related:
+  - "[[05-PLOT/foreshadowing/_index]]"
   - "[[char-索妮娅]]"
   - "[[religion-神明-索菲莉娅]]"
   - "[[fore-索妮娅-神选身份]]"
+  - "[[arcs/arc-索妮娅]]"
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # 伏笔：神选代价与自我边界模糊

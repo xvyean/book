@@ -6,11 +6,13 @@ summary: "索妮娅是索菲莉娅（梦境与预兆之神）的神选者，拥�
 status: 已拍板
 tags: [伏笔]
 related:
+  - "[[05-PLOT/foreshadowing/_index]]"
   - "[[char-索妮娅]]"
   - "[[religion-神明-索菲莉娅]]"
   - "[[fore-索妮娅-神选代价]]"
+  - "[[fore-索妮娅-暗流操作]]"
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # 伏笔：索妮娅的神选者身份

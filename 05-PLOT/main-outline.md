@@ -3,8 +3,12 @@ type: plot
 category: arc
 summary: 全书主线组织文件，汇总当前已确认方向与参考设计
 tags: [剧情, 大纲]
+related:
+  - "[[05-PLOT/_index]]"
+  - "[[volumes/volume-01-大纲]]"
+  - "[[foreshadowing/fore-主线-正神勾结]]"
 created: 2026-04-16
-updated: 2026-04-17
+updated: 2026-04-19
 ---
 
 # 全书主线总纲
@@ -41,7 +45,7 @@ updated: 2026-04-17
 
 | 卷位占位 | 卷名 | 可用功能 | 可用冲突 | 备注 |
 |----------|------|----------|----------|------|
-| Vol.1 |  |  |  |  |
+| Vol.1 |  |  |  | [[volumes/volume-01-大纲]] |
 | Vol.2 |  |  |  |  |
 
 ### 阶段 B：魔族入侵与十二门扉

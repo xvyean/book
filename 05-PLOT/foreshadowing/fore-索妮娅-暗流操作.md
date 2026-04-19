@@ -6,11 +6,12 @@ summary: "索妮娅在暗中持续调整局势，让其他女生接近伊利安�
 status: 已拍板
 tags: [伏笔]
 related:
+  - "[[05-PLOT/foreshadowing/_index]]"
   - "[[char-索妮娅]]"
   - "[[char-伊利安]]"
   - "[[fore-索妮娅-策划初遇]]"
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # 伏笔：索妮娅的暗流操作

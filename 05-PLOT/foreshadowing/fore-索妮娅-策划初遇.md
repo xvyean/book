@@ -6,12 +6,13 @@ summary: "伊利安与索妮娅的'初遇'和索妮娅'入学报恩'，都是她
 status: 已拍板
 tags: [伏笔]
 related:
+  - "[[05-PLOT/foreshadowing/_index]]"
   - "[[char-索妮娅]]"
   - "[[char-伊利安]]"
   - "[[fore-索妮娅-神选身份]]"
   - "[[fore-索妮娅-暗流操作]]"
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # 伏笔：索妮娅策划了初遇与入学

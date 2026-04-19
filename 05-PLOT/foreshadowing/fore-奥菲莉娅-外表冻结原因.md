@@ -6,10 +6,12 @@ summary: "奥菲莉娅外表冻结在少女形态，原因与她触及的某种�
 status: 灵感
 tags: [伏笔]
 related:
+  - "[[05-PLOT/foreshadowing/_index]]"
   - "[[char-奥菲莉娅]]"
   - "[[fore-奥菲莉娅-真实年龄]]"
+  - "[[arcs/arc-奥菲莉娅]]"
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # 伏笔：外表冻结原因（法则未定）

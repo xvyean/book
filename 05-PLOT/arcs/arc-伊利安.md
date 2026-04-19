@@ -6,8 +6,11 @@ tags: [剧情, 弧线, 主角]
 related:
   - "[[char-伊利安]]"
   - "[[relationships-女主群像]]"
+  - "[[05-PLOT/_index]]"
+  - "[[arcs/arc-索妮娅]]"
+  - "[[foreshadowing/fore-主线-正神勾结]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-19
 ---
 
 # 伊利安 · 弧线

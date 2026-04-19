@@ -6,10 +6,11 @@ summary: "奥菲莉娅'情感近乎冻结、不再开始'的心理来源：活�
 status: 灵感
 tags: [伏笔]
 related:
+  - "[[05-PLOT/foreshadowing/_index]]"
   - "[[char-奥菲莉娅]]"
   - "[[fore-奥菲莉娅-真实年龄]]"
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # 伏笔：不再开始的心理来源

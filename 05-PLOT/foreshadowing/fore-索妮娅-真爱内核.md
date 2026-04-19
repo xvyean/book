@@ -6,12 +6,13 @@ summary: "索妮娅对伊利安的爱是真实的——即使所有手段都是�
 status: 已拍板
 tags: [伏笔]
 related:
+  - "[[05-PLOT/foreshadowing/_index]]"
   - "[[char-索妮娅]]"
   - "[[char-伊利安]]"
   - "[[fore-索妮娅-策划初遇]]"
   - "[[fore-索妮娅-神选代价]]"
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # 伏笔：手段是假的，感情是真的

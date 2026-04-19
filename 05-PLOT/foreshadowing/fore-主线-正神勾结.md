@@ -5,9 +5,10 @@ subject: ""
 summary: "中段主线的深层真相：表面是邪神蛊惑发起魔族入侵，实际是部分正神与之勾结，十二门扉开启。"
 status: 已拍板
 tags: [伏笔, 主线]
-related: []
+related:
+  - "[[05-PLOT/foreshadowing/_index]]"
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # 伏笔：正神勾结——魔族入侵的真相

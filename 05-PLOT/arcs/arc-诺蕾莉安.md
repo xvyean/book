@@ -7,8 +7,9 @@ related:
   - "[[char-诺蕾莉安]]"
   - "[[char-伊利安]]"
   - "[[relationships-女主群像]]"
+  - "[[05-PLOT/_index]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-19
 ---
 
 # 诺蕾莉安 · 弧线

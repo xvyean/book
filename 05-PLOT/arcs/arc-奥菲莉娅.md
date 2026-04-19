@@ -11,8 +11,9 @@ related:
   - "[[char-索妮娅]]"
   - "[[relationships-女主群像]]"
   - "[[magic-阶位造诣体系]]"
+  - "[[05-PLOT/_index]]"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-19
 ---
 
 # 奥菲莉娅 · 弧线
