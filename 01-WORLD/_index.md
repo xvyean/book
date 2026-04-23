@@ -19,6 +19,7 @@ updated: 2026-04-14
 > - 查纪元/战争/历史事件 → [[01-WORLD/history/_index|history/_index]]
 > - 查种族/文化/社会结构 → [[01-WORLD/culture/_index|culture/_index]]
 > - 查政治制度/外交/权力结构 → [[01-WORLD/politics/_index|politics/_index]]
+> - 查魔物/自然灵/幻兽原型物种 → [[01-WORLD/creatures/_index|creatures/_index]]
 
 ## 底层主轴
 
@@ -35,10 +36,11 @@ updated: 2026-04-14
 |------|-----------|------|------|
 | **魔法** | 以魔导卡为核心的施法体系，炼金术与符文学的产物 | [[01-WORLD/magic/_index\|magic/_index]] | ✅ 7 文件 |
 | **宗教** | 建立在"法则先在"上的神明体系，17 位神明三方阵营 | [[01-WORLD/religion/_index\|religion/_index]] | ✅ 6 规则 + 17 个档 |
-| **地理** | 中央内海 + 多板块 + 巡游学院，文明单元为基本地理单位 | [[01-WORLD/geography/_index\|geography/_index]] | 🔄 6 文件 |
+| **地理** | 中央内海 + 多板块 + 奥尔德林学院，文明单元为基本地理单位 | [[01-WORLD/geography/_index\|geography/_index]] | 🔄 6 文件 |
 | **历史** | 五大纪元：混沌→黎明→神权→魔导→协约 | [[01-WORLD/history/_index\|history/_index]] | 🔄 1 文件 |
 | **文化** | 五大种族的生理、社会、信仰与种际关系 | [[01-WORLD/culture/_index\|culture/_index]] | 🔄 5 文件 |
 | **政治** | 权力结构、魔导师社会组织、外交 | [[01-WORLD/politics/_index\|politics/_index]] | ⬜ 待建 |
+| **生物** | 魔物/自然灵/幻兽原型物种（非智慧种族） | [[01-WORLD/creatures/_index\|creatures/_index]] | 🔄 1 文件 |
 
 ## 跨域关键交叉
 

@@ -8,7 +8,7 @@ civilization_type: "（林地联邦 | 山城联盟 | 混居城邦带 | 王国腹
 dominant_races: []
 spatial_character: "（封闭 | 半开放 | 开放 | 流动）"
 faith_profile: []
-academy_relation: "（航线覆盖 | 偶尔停靠 | 不在航线上 | 特殊关系）"
+academy_relation: "（常相邻 | 偶尔靠近 | 极少接触 | 本体 | 特殊关系）"
 tags: [地理, 区域]
 related: []
 created: {{date}}
@@ -53,7 +53,7 @@ updated: {{date}}
 
 ## 与其他区域的关系
 
-（与相邻区域、学院航线、中央内海的关系。）
+（与相邻区域、学院、中央内海的关系。）
 
 ## 已知子地点
 

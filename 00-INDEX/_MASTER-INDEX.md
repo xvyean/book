@@ -19,6 +19,7 @@ updated: 2026-04-17
 > - 查纪元/战争/历史事件 → [[01-WORLD/history/_index|history/_index]]
 > - 查种族/文化/社会 → [[01-WORLD/culture/_index|culture/_index]]
 > - 查政治/制度/外交 → [[01-WORLD/politics/_index|politics/_index]]
+> - 查魔物/自然灵/幻兽原型物种 → [[01-WORLD/creatures/_index|creatures/_index]]
 > - 查角色 → [[02-CHARACTERS/_index]]
 > - 查势力/组织 → [[03-FACTIONS/_index]]
 > - 查剧情/大纲/时间线 → [[05-PLOT/_index]]
@@ -38,7 +39,7 @@ updated: 2026-04-17
 | 文件夹 | 内容 | 入口文件 |
 |--------|------|----------|
 | `00-INDEX/` | 导航与元信息 | 本文件 |
-| `01-WORLD/` | 世界观（magic / religion / geography / history / culture / politics） | [[01-WORLD/_index]] |
+| `01-WORLD/` | 世界观（magic / religion / geography / history / culture / politics / creatures） | [[01-WORLD/_index]] |
 | `02-CHARACTERS/` | 所有角色设定 | [[02-CHARACTERS/_index]] |
 | `03-FACTIONS/` | 势力、组织、国家 | [[03-FACTIONS/_index]] |
 | `04-ITEMS/` | 重要物品、神器、材料 | [[04-ITEMS/_index]] |
@@ -56,6 +57,7 @@ updated: 2026-04-17
 | 历史 | [[01-WORLD/history/_index\|history/_index]] | 🔄 基本骨架（1 文件） |
 | 文化 | [[01-WORLD/culture/_index\|culture/_index]] | 🔄 六种族简版（6 文件） |
 | 政治 | [[01-WORLD/politics/_index\|politics/_index]] | ⬜ 待建立 |
+| 生物（魔物/自然灵/幻兽原型） | [[01-WORLD/creatures/_index\|creatures/_index]] | 🔄 1 文件 |
 
 ## 主要角色
 
@@ -99,3 +101,5 @@ updated: 2026-04-17
 | `culture-` | 文化 | `timeline-` | 时间线 |
 | `religion-` | 宗教 | `subplot-` | 支线 |
 | `politics-` | 政治 | `tpl-` | 模板 |
+| `spirit-` | 自然灵/精怪 | `beast-` | 魔物/野兽 |
+| `fauna-` | 幻兽原型物种 | `card-` | 魔导卡实例（04-ITEMS 内） |

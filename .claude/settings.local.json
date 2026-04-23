@@ -13,7 +13,13 @@
       "mcp__obsidian__get_vault_file",
       "mcp__obsidian__create_vault_file",
       "mcp__obsidian__patch_vault_file",
-      "WebSearch"
+      "WebSearch",
+      "Bash(xargs grep *)",
+      "Bash(grep \"\\\\.md$\")",
+      "Bash(xargs -I {} basename {})",
+      "Bash(sed 's/-.*$//')",
+      "Bash(echo \"\")",
+      "Bash(git mv *)"
     ]
   },
   "enabledMcpjsonServers": [
