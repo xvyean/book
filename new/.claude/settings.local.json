@@ -2,7 +2,16 @@
   "permissions": {
     "allow": [
       "Bash(awk NR>=120 && NR<=400 *)",
-      "Bash(awk NR>=400 && NR<=717 *)"
+      "Bash(awk NR>=400 && NR<=717 *)",
+      "Bash(xargs grep *)",
+      "Bash(awk '{print $9, $5}')",
+      "Bash(女主\")",
+      "Skill(humanizer-zh)",
+      "Skill(humanizer-zh:*)"
     ]
-  }
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "obsidian"
+  ]
 }
