@@ -31,7 +31,7 @@ for f in sorted(glob.glob('06-CHAPTERS/ch-0*.md')):
         pre=b[max(0,m.start()-4):m.start()]
         nx=b[m.end():m.end()+2]
         p1=b[max(0,m.start()-1):m.start()]
-        if ('钟敲' in pre or '敲过' in pre) or p1 in ('小','老','太') or nx=='下午': continue
+        if ('钟' in pre and '敲' in pre) or ('敲过' in pre) or p1 in ('小','老','太') or nx=='下午': continue
         if '年' in pre and nx[:1]=='回': continue
         counts['vnum']+=1; rows.append(('vnum',w,ctx(b,m.start(),m.end()+2)))
     for m in re_expl.finditer(b):
