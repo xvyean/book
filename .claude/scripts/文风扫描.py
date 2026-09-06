@@ -20,6 +20,7 @@ for f in sorted(glob.glob('06-CHAPTERS/ch-0*.md')):
     b=open(f).read().split('# ',1)[1]
     counts={k:0 for k in ('adv','vv','vnum','expl')}; rows=[]
     for m in re_word.finditer(b):
+        if m.group(1)=='太' and b[max(0,m.start()-1):m.start()] in ('老','太'): continue
         counts['adv']+=1; rows.append(('adv',m.group(1),ctx(b,m.start(),m.end())))
     for m in re_vv.finditer(b):
         counts['vv']+=1; rows.append(('vv',m.group(0),ctx(b,m.start(),m.end())))
@@ -29,7 +30,9 @@ for f in sorted(glob.glob('06-CHAPTERS/ch-0*.md')):
         w=m.group(0)+b[m.end():m.end()+2].lstrip()
         pre=b[max(0,m.start()-4):m.start()]
         nx=b[m.end():m.end()+2]
-        if ('钟敲' in pre) or (b[max(0,m.start()-1):m.start()]=='小') or nx=='下午': continue
+        p1=b[max(0,m.start()-1):m.start()]
+        if ('钟敲' in pre or '敲过' in pre) or p1 in ('小','老','太') or nx=='下午': continue
+        if '年' in pre and nx[:1]=='回': continue
         counts['vnum']+=1; rows.append(('vnum',w,ctx(b,m.start(),m.end()+2)))
     for m in re_expl.finditer(b):
         counts['expl']+=1; rows.append(('expl',m.group(0),ctx(b,m.start(),m.end())))
