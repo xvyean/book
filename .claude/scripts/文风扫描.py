@@ -20,7 +20,7 @@ for f in sorted(glob.glob('06-CHAPTERS/ch-0*.md')):
     b=open(f).read().split('# ',1)[1]
     counts={k:0 for k in ('adv','vv','vnum','expl')}; rows=[]
     for m in re_word.finditer(b):
-        if m.group(1)=='太' and b[max(0,m.start()-1):m.start()] in ('老','太'): continue
+        if m.group(1)=='太' and (b[max(0,m.start()-1):m.start()] in ('老','太') or b[m.end():m.end()+1]=='阳'): continue
         counts['adv']+=1; rows.append(('adv',m.group(1),ctx(b,m.start(),m.end())))
     for m in re_vv.finditer(b):
         counts['vv']+=1; rows.append(('vv',m.group(0),ctx(b,m.start(),m.end())))
