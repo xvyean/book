@@ -18,6 +18,7 @@ updated: 2026-04-14
 > - 查地点/区域/种族居住地 → [[01-WORLD/geography/_index|geography/_index]]
 > - 查纪元/战争/历史事件 → [[01-WORLD/history/_index|history/_index]]
 > - 查种族/文化/社会结构 → [[01-WORLD/culture/_index|culture/_index]]
+> - 查幻兽、精灵卡构型、魔兽生态和个体图鉴 → [[01-WORLD/bestiary/_index|bestiary/_index]]
 > - 查政治制度/外交/权力结构 → [[01-WORLD/politics/_index|politics/_index]]
 
 ## 底层主轴
@@ -28,6 +29,10 @@ updated: 2026-04-14
 - 神明是法则雏核被众生信仰点灵后的结果（→ [[religion-创世神话总纲]]）
 - 真理卡触碰的是世界底层法则，不是"偷取神力"（→ [[magic-真理卡]]）
 - 魔导卡体系和宗教体系是"法则先在"的两种不同表达
+
+## 奇幻生物专题
+
+图鉴第一辑新增三类九种原创奇幻生物及代表个体，包括 [[bestiary-幻兽图鉴]]、[[bestiary-精灵卡图鉴]]、[[bestiary-魔兽图鉴]]。详细规则和区分见 [[bestiary-奇幻生物总纲]]；该专题属于候选扩写，不覆盖原有魔法、文明体系的已确认规则。
 
 ## 六大子域
 
